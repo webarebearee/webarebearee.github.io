@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media screen and (max-width: 768px){
+	.Grizzly{
+		transform: translateX(550%) translateY(100%);
+	}
+	.icebear{
+		transform: translateX(550%) translateY(250%);
+	}
+}
