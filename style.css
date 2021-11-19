@@ -1,18 +1,6 @@
 @charset "UTF-8";
 
-@import url('https://fonts.googleapis.com/css2?family=Monoton&family=Press+Start+2P&family=Rubik+Beastly&display=swap');
-	
-@media screen and (max-width: 768px){
-	body{
-		background-image:#ff99d8
-			;background-image:  
-radial-gradient(at 1% 21%, hsla(208,90%,72%,1) 0, transparent 43%),  
-radial-gradient(at 6% 98%, hsla(308,96%,76%,1) 0, transparent 51%),  
-radial-gradient(at 65% 67%, hsla(286,72%,68%,1) 0, transparent 46%),  
-radial-gradient(at 79% 83%, hsla(163,97%,63%,1) 0, transparent 47%),  
-radial-gradient(at 31% 73%, hsla(22,86%,73%,1) 0, transparent 59%);
-	}
-}	
+@import url('https://fonts.googleapis.com/css2?family=Monoton&family=Press+Start+2P&family=Rubik+Beastly&display=swap');	
 
 
 html,
